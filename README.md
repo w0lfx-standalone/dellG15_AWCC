@@ -9,8 +9,8 @@ Quick tool to manage RGB, fans, and power modes on Dell G-Series laptops under L
 - **Settings**: Remembers your colors and brightness between restarts.
 
 
-!(https://github.com/w0lfx-standalone/dellG15_AWCC/blob/main/fx.png)
-!(https://github.com/w0lfx-standalone/dellG15_AWCC/blob/main/fan.png)
+![](https://github.com/w0lfx-standalone/dellG15_AWCC/blob/main/fx.png)
+![](https://github.com/w0lfx-standalone/dellG15_AWCC/blob/main/fan.png)
 
 ## Installation
 
