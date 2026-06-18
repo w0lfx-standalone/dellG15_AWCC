@@ -36,8 +36,5 @@ and to remove from menu,
 - `pkexec` (for root access to ACPI)
 - `libusb` (for RGB)
 
-## Credits
-Protocol research thanks to @AlexIII, @T-Troll, and the AlienFX project contributors.
-
 ## License
 GPLv3
