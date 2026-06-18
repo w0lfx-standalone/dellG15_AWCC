@@ -8,6 +8,10 @@ Quick tool to manage RGB, fans, and power modes on Dell G-Series laptops under L
 - **Power**: Quick toggle for G-Mode and system power profiles (Performance, Quiet, etc).
 - **Settings**: Remembers your colors and brightness between restarts.
 
+
+!(https://github.com/w0lfx-standalone/dellG15_AWCC/blob/main/fx.png)
+!(https://github.com/w0lfx-standalone/dellG15_AWCC/blob/main/fan.png)
+
 ## Installation
 
 Just run the setup script:
