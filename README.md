@@ -15,6 +15,16 @@ Just run the setup script:
 sudo ./setup.sh
 ```
 It handles the virtual environment, udev rules, and adds a shortcut to your app menu.
+if any requirements fails, use the requirements.txt
+
+To still add a app menu shortcut, run
+```
+./install_menu.sh
+```
+and to remove from menu,
+```
+./uninstall_menu.sh
+```
 
 ## Manual Run
 ```bash
