@@ -26,11 +26,6 @@ and to remove from menu,
 ./uninstall_menu.sh
 ```
 
-## Manual Run
-```bash
-./venv/bin/python main.py
-```
-
 ## Requirements
 - `acpi_call` module (for fans/power)
 - `pkexec` (for root access to ACPI)
